@@ -271,7 +271,7 @@
 
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="accordion">
-                        <h2>Why People like Bootstrap?</h2>
+                        <h2>Why People love Bootstrap?</h2>
                         <div class="panel-group" id="accordion1">
                           <div class="panel panel-default">
                             <div class="panel-heading active">
