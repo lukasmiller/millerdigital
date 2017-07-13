@@ -411,7 +411,7 @@
                             <li><a href="#">Veniam</a></li>
                             <li><a href="#">Exercitation</a></li>
                             <li><a href="#">Ullamco</a></li>
-                            <li><a href="#">Laboris</a></li>
+                            <li><a href="#">Laboratory</a></li>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->
