@@ -65,12 +65,12 @@
                        <li><a href="portfolio.aspx">Portfolio</a></li>
                         <li><a href="services.aspx">Services</a></li>                        
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#">Blog Single</a></li>
-                                <li><a href="#">Pricing</a></li>
-                                <li><a href="#">404</a></li>
-                                <li><a href="#">Shortcodes</a></li>
+                                <li><a href="/about/delilah.aspx">Delilah</a></li>
+                                <li><a href="/about/luke.aspx">Luke</a></li>
+                                <li><a href="/about/noel.aspx">Noel</a></li>
+                                <li><a href="/about/silas.aspx">Silas</a></li>
                             </ul>
                         </li>
                         <li><a href="#">Blog</a></li> 
