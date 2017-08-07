@@ -73,7 +73,7 @@
                                 <li><a href="/about/silas.aspx">Silas</a></li>
                             </ul>
                         </li>
-                        <li><a href="#">Blog</a></li> 
+                        <li><a href="#">Stub Link</a></li> 
                         <li><a href="contactus.aspx">Contact</a></li>                        
                     </ul>
                 </div>
