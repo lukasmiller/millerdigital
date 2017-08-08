@@ -15,7 +15,7 @@
 	<link href="/css/prettyPhoto.css" rel="stylesheet" type="text/css" />
 	<link href="/css/main.css" rel="stylesheet" type="text/css" />
 	<link href="/css/responsive.css" rel="stylesheet" type="text/css" />
-	 <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
+	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
 		rel="stylesheet" type="text/css" />
 	<!--[if lt IE 9]>
 	<script src="js/html5shiv.js"></script>
@@ -83,15 +83,15 @@
 	<section id="portfolio">
 		<div class="container">
 			<div class="center">
-			   <h2>Portfolio</h2>
-			   <p class="lead">There are many versions of portfolio online, where the reader can follow the links to the artifacts online. <br> In this version of my portfolio, I provide an overview and explanation of the artifacts.</p>
+			   <h2>Silas Miller</h2>
+			   <p class="lead">Welcome To My Profile.<br> Here I Showcase some of my work.</p>
 			</div>
 		
 
 			<ul class="portfolio-filter text-center">
 				<li><a class="btn btn-default active" href="#" data-filter="*">All Works</a></li>
 				<li><a class="btn btn-default" href="#" data-filter=".bootstrap">Creative</a></li>
-				<li><a class="btn btn-default" href="#" data-filter=".html">Photography</a></li>
+				<li><a class="btn btn-default" href="#" data-filter=".html">Hobbies</a></li>
 				<li><a class="btn btn-default" href="#" data-filter=".wordpress">Web Development</a></li>
 			</ul><!--/#portfolio-filter-->
 
@@ -102,9 +102,9 @@
 							<img class="img-responsive" src="/images/portfolio/recent/item1.jpg" alt="">
 							<div class="overlay">
 								<div class="recent-work-inner">
-									<h3><a href="#">Business theme</a></h3>
-									<p>There are many variations of passages of contents available, but the majority</p>
-									<a class="preview" href="/images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+									<h3><a href="#">My Computer</a></h3>
+									<p>The Hardware</p>
+									<a class="preview" href="/images/portfolio/full/item1.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> Specs</a>
 								</div> 
 							</div>
 						</div>
@@ -115,8 +115,8 @@
 							<img class="img-responsive" src="/images/portfolio/recent/item2.jpg" alt="">
 							<div class="overlay">
 								<div class="recent-work-inner">
-									<h3><a href="#">Business theme</a></h3>
-									<p>There are many variations of passages of content available, but the majority</p>
+									<h3><a href="#">Online Profiles</a></h3>
+									<p>Where else you can find me online.</p>
 									<a class="preview" href="/images/portfolio/full/item2.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
 								</div> 
 							</div>
@@ -238,35 +238,6 @@
 					</div>    
 				</div><!--/.col-md-3-->
 
-				<div class="col-md-3 col-sm-6">
-					<div class="widget">
-						<h3>Developers</h3>
-						<ul>
-							<li><a href="#">Web Development</a></li>
-							<li><a href="#">SEO Marketing</a></li>
-							<li><a href="#">Theme</a></li>
-							<li><a href="#">Development</a></li>
-							<li><a href="#">Email Marketing</a></li>
-							<li><a href="#">Plugin Development</a></li>
-							<li><a href="#">Article Writing</a></li>
-						</ul>
-					</div>    
-				</div><!--/.col-md-3-->
-
-				<div class="col-md-3 col-sm-6">
-					<div class="widget">
-						<h3>Our Partners</h3>
-						<ul>
-							<li><a href="#">Adipisicing Elit</a></li>
-							<li><a href="#">Eiusmod</a></li>
-							<li><a href="#">Tempor</a></li>
-							<li><a href="#">Veniam</a></li>
-							<li><a href="#">Exercitation</a></li>
-							<li><a href="#">Ullamco</a></li>
-							<li><a href="#">Laboris</a></li>
-						</ul>
-					</div>    
-				</div><!--/.col-md-3-->
 			</div>
 		</div>
 	</section>
